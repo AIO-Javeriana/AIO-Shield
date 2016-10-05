@@ -1,0 +1,85 @@
+Added Component: Designator=CZ_0(HDR1X6)
+Added Component: Designator=CZ_1(HDR1X8)
+Added Component: Designator=CZ_2(HDR1X2)
+Added Component: Designator=CZ_3(HDR1X8)
+Added Component: Designator=CZ_4(HDR1X10)
+Added Component: Designator=I2C(HDR1X2)
+Added Component: Designator=minus -(PIN1)
+Added Component: Designator=OdroidC2(HDR2X20)
+Added Component: Designator=OuputUsb(USB2.5-2H4)
+Added Component: Designator=Plus+(PIN1)
+Added Component: Designator=UART(HDR1X2)
+Added Pin To Net: NetName=GND Pin=CZ_1-3
+Added Pin To Net: NetName=GND Pin=OdroidC2-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCZ_0_1 Pin=CZ_0-1
+Added Pin To Net: NetName=NetCZ_0_1 Pin=OdroidC2-22
+Added Net: Name=NetCZ_0_1
+Added Pin To Net: NetName=NetCZ_0_3 Pin=CZ_0-3
+Added Pin To Net: NetName=NetCZ_0_3 Pin=OdroidC2-24
+Added Net: Name=NetCZ_0_3
+Added Pin To Net: NetName=NetCZ_0_4 Pin=CZ_0-4
+Added Pin To Net: NetName=NetCZ_0_4 Pin=OdroidC2-16
+Added Net: Name=NetCZ_0_4
+Added Pin To Net: NetName=NetCZ_1_4 Pin=CZ_1-4
+Added Pin To Net: NetName=NetCZ_1_4 Pin=OdroidC2-2
+Added Net: Name=NetCZ_1_4
+Added Pin To Net: NetName=NetCZ_1_5 Pin=CZ_1-5
+Added Pin To Net: NetName=NetCZ_1_5 Pin=OdroidC2-1
+Added Net: Name=NetCZ_1_5
+Added Pin To Net: NetName=NetCZ_2_1 Pin=CZ_2-1
+Added Pin To Net: NetName=NetCZ_2_1 Pin=Plus+-1
+Added Net: Name=NetCZ_2_1
+Added Pin To Net: NetName=NetCZ_2_2 Pin=CZ_2-2
+Added Pin To Net: NetName=NetCZ_2_2 Pin=minus --1
+Added Net: Name=NetCZ_2_2
+Added Pin To Net: NetName=NetCZ_3_4 Pin=CZ_3-4
+Added Pin To Net: NetName=NetCZ_3_4 Pin=OdroidC2-7
+Added Net: Name=NetCZ_3_4
+Added Pin To Net: NetName=NetCZ_3_5 Pin=CZ_3-5
+Added Pin To Net: NetName=NetCZ_3_5 Pin=OdroidC2-12
+Added Net: Name=NetCZ_3_5
+Added Pin To Net: NetName=NetCZ_3_6 Pin=CZ_3-6
+Added Pin To Net: NetName=NetCZ_3_6 Pin=OdroidC2-26
+Added Net: Name=NetCZ_3_6
+Added Pin To Net: NetName=NetCZ_3_7 Pin=CZ_3-7
+Added Pin To Net: NetName=NetCZ_3_7 Pin=OdroidC2-36
+Added Net: Name=NetCZ_3_7
+Added Pin To Net: NetName=NetCZ_3_8 Pin=CZ_3-8
+Added Pin To Net: NetName=NetCZ_3_8 Pin=OdroidC2-21
+Added Net: Name=NetCZ_3_8
+Added Pin To Net: NetName=NetCZ_4_1 Pin=CZ_4-1
+Added Pin To Net: NetName=NetCZ_4_1 Pin=OdroidC2-35
+Added Net: Name=NetCZ_4_1
+Added Pin To Net: NetName=NetCZ_4_2 Pin=CZ_4-2
+Added Pin To Net: NetName=NetCZ_4_2 Pin=OdroidC2-19
+Added Net: Name=NetCZ_4_2
+Added Pin To Net: NetName=NetCZ_4_3 Pin=CZ_4-3
+Added Pin To Net: NetName=NetCZ_4_3 Pin=OdroidC2-33
+Added Net: Name=NetCZ_4_3
+Added Pin To Net: NetName=NetCZ_4_4 Pin=CZ_4-4
+Added Pin To Net: NetName=NetCZ_4_4 Pin=OdroidC2-18
+Added Net: Name=NetCZ_4_4
+Added Pin To Net: NetName=NetCZ_4_6 Pin=CZ_4-6
+Added Pin To Net: NetName=NetCZ_4_6 Pin=OdroidC2-32
+Added Net: Name=NetCZ_4_6
+Added Pin To Net: NetName=NetCZ_4_9 Pin=CZ_4-9
+Added Pin To Net: NetName=NetCZ_4_9 Pin=OdroidC2-27
+Added Net: Name=NetCZ_4_9
+Added Pin To Net: NetName=NetCZ_4_10 Pin=CZ_4-10
+Added Pin To Net: NetName=NetCZ_4_10 Pin=OdroidC2-28
+Added Net: Name=NetCZ_4_10
+Added Pin To Net: NetName=NetI2C_1 Pin=I2C-1
+Added Pin To Net: NetName=NetI2C_1 Pin=OdroidC2-3
+Added Net: Name=NetI2C_1
+Added Pin To Net: NetName=NetI2C_2 Pin=I2C-2
+Added Pin To Net: NetName=NetI2C_2 Pin=OdroidC2-5
+Added Net: Name=NetI2C_2
+Added Pin To Net: NetName=NetOdroidC2_4 Pin=OdroidC2-4
+Added Pin To Net: NetName=NetOdroidC2_4 Pin=UART-1
+Added Net: Name=NetOdroidC2_4
+Added Pin To Net: NetName=NetOdroidC2_6 Pin=OdroidC2-6
+Added Pin To Net: NetName=NetOdroidC2_6 Pin=UART-2
+Added Net: Name=NetOdroidC2_6
+Added Class: Name=Sheet_Shield
+Added Room: Name=Sheet_Shield
