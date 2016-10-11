@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=MicroServo NewDesignator=Servo
+Change Component Designator: OldDesignator=MSP430G2452 NewDesignator=MSP_PIC
+Change Net Name : Old Net Name=NetMicroServo_1 New Net Name=NetMSP_PIC_6
+Change Net Name : Old Net Name=NetMSP430G2452_2 New Net Name=NetMSP_PIC_2
+Change Net Name : Old Net Name=NetMSP430G2452_3 New Net Name=NetMSP_PIC_3

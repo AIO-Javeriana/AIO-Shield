@@ -1,0 +1,17 @@
+Added Component: Designator=PINS(HDR1X15)
+Added Pin To Net: NetName=5VB Pin=PINS-1
+Added Pin To Net: NetName=5V Pin=PINS-2
+Added Pin To Net: NetName=NetOdroidC2_17 Pin=PINS-3
+Added Pin To Net: NetName=NetOdroidC2_15 Pin=PINS-4
+Added Pin To Net: NetName=NetOdroidC2_13 Pin=PINS-5
+Added Pin To Net: NetName=NetOdroidC2_11 Pin=PINS-6
+Added Pin To Net: NetName=NetOdroidC2_23 Pin=PINS-7
+Added Pin To Net: NetName=NetOdroidC2_29 Pin=PINS-8
+Added Pin To Net: NetName=NetOdroidC2_31 Pin=PINS-9
+Added Pin To Net: NetName=NetOdroidC2_38 Pin=PINS-10
+Added Pin To Net: NetName=NetOdroidC2_40 Pin=PINS-11
+Added Pin To Net: NetName=NetOdroidC2_37 Pin=PINS-12
+Added Pin To Net: NetName=GND Pin=PINS-13
+Added Pin To Net: NetName=GND Pin=PINS-14
+Added Pin To Net: NetName=GND Pin=PINS-15
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component PINS Header 15

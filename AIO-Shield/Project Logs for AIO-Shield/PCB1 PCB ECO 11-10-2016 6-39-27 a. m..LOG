@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=CZ_1-3
+Removed Pin From Net: NetName=GND Pin=I2C_ODROID-4
+Removed Pin From Net: NetName=GND Pin=UART_ODROID-4
+Change Net Name : Old Net Name=GND New Net Name=NetCZ_2_2
+Added Pin To Net: NetName=GND Pin=CZ_1-3
+Added Pin To Net: NetName=GND Pin=I2C_ODROID-4
+Added Pin To Net: NetName=GND Pin=OUT--1
+Added Pin To Net: NetName=GND Pin=OutUSB-4
+Added Pin To Net: NetName=GND Pin=UART_ODROID-4
+Added Net: Name=GND

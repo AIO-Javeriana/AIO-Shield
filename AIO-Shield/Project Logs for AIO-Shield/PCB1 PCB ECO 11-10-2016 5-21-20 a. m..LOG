@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=OdroidC2-6
+Removed Pin From Net: NetName=GND Pin=OdroidC2-14
+Removed Pin From Net: NetName=GND Pin=OdroidC2-20
+Removed Pin From Net: NetName=GND Pin=OdroidC2-30
+Removed Pin From Net: NetName=GND Pin=OdroidC2-34
+Added Component: Designator=R1(INDC3216)
+Added Component: Designator=R2(INDC3216)
+Added Component: Designator=U?(JG008)
+Added Pin To Net: NetName=GND Pin=CZ_2-2
+Added Pin To Net: NetName=GND Pin=minus --1
+Added Pin To Net: NetName=NetOdroidC2_40 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetOdroidC2_40 Pin=R2-2
+Added Pin To Net: NetName=NetCZ_2_1 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=NetCZ_2_1 Pin=U?-8
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U?-1
+Added Pin To Net: NetName=NetR1_2 Pin=U?-2
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component R2 Res3
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component U? TLC3702MJG

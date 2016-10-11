@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=OUT--1
+Removed Pin From Net: NetName=GND Pin=OutUSB-4
+Added Pin To Net: NetName=NetOUT-_1 Pin=OUT--1
+Added Pin To Net: NetName=NetOUT-_1 Pin=OutUSB-4
+Added Net: Name=NetOUT-_1
