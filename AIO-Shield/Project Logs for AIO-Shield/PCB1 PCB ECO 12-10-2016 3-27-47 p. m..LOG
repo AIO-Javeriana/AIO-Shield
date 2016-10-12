@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Sheet_handling_module Member=I2C_O2
+Removed Member From Class: ClassName=Sheet_handling_module Member=UART_O2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component I2C I2C_MSP430
+Added Member To Class: ClassName=Sheet_handling_module Member=Component UART UART_MSP430

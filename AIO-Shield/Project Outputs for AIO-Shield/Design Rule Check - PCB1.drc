@@ -1,35 +1,38 @@
 Protel Design System Design Rule Check
 PCB File : E:\PROYECTOS\Robot modular\AIO\Git\AIO-Shield\AIO-Shield\PCB1.PcbDoc
 Date     : 12/10/2016
-Time     : 8:58:28 a. m.
+Time     : 3:28:00 p. m.
 
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=0.252mm) (Max=2mm) (Preferred=0.4mm) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Room Sheet_handling_module (Bounding Region = (22.174mm, 56.007mm, 37.287mm, 96.012mm) (InComponentClass('Sheet_handling_module'))
 Rule Violations :0
 
 Processing Rule : Room Sheet_AIO_Shield (Bounding Region = (37.236mm, 56.058mm, 132.334mm, 141.122mm) (InComponentClass('Sheet_AIO_Shield'))
 Rule Violations :0
 
-Processing Rule : Room Sheet_handling_module (Bounding Region = (22.174mm, 56.007mm, 37.287mm, 96.012mm) (InComponentClass('Sheet_handling_module'))
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad UART-4(-5.131mm,16.434mm) on Multi-Layer And Pad MSP_PIC-4(-6.045mm,16.231mm) on Multi-Layer Location : [X = 31.801mm][Y = 72.39mm]
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC1n_2 Between Pad UART-4(-5.131mm,16.434mm) on Multi-Layer And Track (-2.54mm,16.129mm)(-1.245mm,17.424mm) on Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.25mm) Between Pad UART-4(-5.131mm,16.434mm) on Multi-Layer And Pad MSP_PIC-4(-6.045mm,16.231mm) on Multi-Layer 
+Rule Violations :1
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.252mm) (Max=2mm) (Preferred=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 
-Violations Detected : 0
-Time Elapsed        : 00:00:01
+Violations Detected : 3
+Time Elapsed        : 00:00:00

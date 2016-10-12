@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=I2C NewDesignator=I2C_O2
+Change Component Designator: OldDesignator=UART NewDesignator=UART_O2
+Change Net Name : Old Net Name=NetI2C_2 New Net Name=NetI2C_O2_2
+Change Net Name : Old Net Name=NetI2C_3 New Net Name=NetI2C_O2_3
