@@ -1,0 +1,27 @@
+Added Component: Designator=AUX(HDR2X6)
+Added Pin To Net: NetName=5V Pin=AUX-5
+Added Pin To Net: NetName=5V Pin=AUX-7
+Added Pin To Net: NetName=3.3V Pin=AUX-9
+Added Pin To Net: NetName=3.3V Pin=AUX-11
+Added Pin To Net: NetName=NetAUX_1 Pin=AUX-1
+Added Pin To Net: NetName=NetAUX_1 Pin=AUX-3
+Added Net: Name=NetAUX_1
+Added Pin To Net: NetName=NetAUX_2 Pin=AUX-2
+Added Pin To Net: NetName=NetAUX_2 Pin=OdroidC2-39
+Added Net: Name=NetAUX_2
+Added Pin To Net: NetName=NetAUX_4 Pin=AUX-4
+Added Pin To Net: NetName=NetAUX_4 Pin=OdroidC2-40
+Added Net: Name=NetAUX_4
+Added Pin To Net: NetName=NetAUX_6 Pin=AUX-6
+Added Pin To Net: NetName=NetAUX_6 Pin=OdroidC2-36
+Added Net: Name=NetAUX_6
+Added Pin To Net: NetName=NetAUX_8 Pin=AUX-8
+Added Pin To Net: NetName=NetAUX_8 Pin=OdroidC2-32
+Added Net: Name=NetAUX_8
+Added Pin To Net: NetName=NetAUX_10 Pin=AUX-10
+Added Pin To Net: NetName=NetAUX_10 Pin=OdroidC2-18
+Added Net: Name=NetAUX_10
+Added Pin To Net: NetName=NetAUX_12 Pin=AUX-12
+Added Pin To Net: NetName=NetAUX_12 Pin=OdroidC2-16
+Added Net: Name=NetAUX_12
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component AUX Header 6X2

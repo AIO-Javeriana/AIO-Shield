@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=5V Pin=AUX-5
+Removed Pin From Net: NetName=5V Pin=AUX-7
+Removed Pin From Net: NetName=3.3V Pin=AUX-11
+Removed Pin From Net: NetName=NetAUX_12 Pin=OdroidC2-16
+Removed Pin From Net: NetName=NetAUX_10 Pin=OdroidC2-18
+Removed Pin From Net: NetName=NetAUX_8 Pin=OdroidC2-32
+Removed Pin From Net: NetName=NetAUX_6 Pin=OdroidC2-36
+Added Pin To Net: NetName=5V Pin=AUX-1
+Added Pin To Net: NetName=5V Pin=AUX-2
+Added Pin To Net: NetName=3.3V Pin=AUX-7
+Added Pin To Net: NetName=NetAUX_12 Pin=OdroidC2-18
+Added Pin To Net: NetName=NetAUX_10 Pin=OdroidC2-32
+Added Pin To Net: NetName=NetAUX_8 Pin=OdroidC2-36
+Added Pin To Net: NetName=NetAUX_6 Pin=OdroidC2-40
+Added Pin To Net: NetName=NetAUX_3 Pin=AUX-3
+Added Pin To Net: NetName=NetAUX_3 Pin=AUX-4
+Added Pin To Net: NetName=NetAUX_3 Pin=AUX-5
+Added Pin To Net: NetName=NetAUX_3 Pin=OdroidC2-39
+Added Net: Name=NetAUX_3
+Added Pin To Net: NetName=NetAUX_11 Pin=AUX-11
+Added Pin To Net: NetName=NetAUX_11 Pin=OdroidC2-16
+Added Net: Name=NetAUX_11
