@@ -1,0 +1,18 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AIO-Shield.PrjPcb|ReportField=ProjectFullPath~C:\Users\TG1619\Documents\thesis\git\AIO-Shield\AIO-Shield\AIO-Shield.PrjPcb|ReportField=Title~Bill of Materials For Project [AIO-Shield.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~24|ReportField=ReportTime~9:09:55 a. m.|ReportField=ReportDate~13/10/2016|ReportField=ReportDateTime~13/10/2016 9:09:55 a. m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~13/10/2016|ReportField=CurrentTime~9:08:35 a. m.|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\TG1619\Documents\thesis\git\AIO-Shield\AIO-Shield\Sheet_AIO_Shield.SchDoc|ReportField=DocumentName~Sheet_AIO_Shield.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~13/10/2016|ReportField=Organization~|ReportField=ProjectName~AIO-Shield.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AIO-Shield.PrjPcb|ReportField=DataSourceFullPath~C:\Users\TG1619\Documents\thesis\git\AIO-Shield\AIO-Shield\AIO-Shield.PrjPcb
+1|Header 6X2|Header, 6-Pin, Dual row|AUX|HDR2X6|Header 6X2|1
+2|Cap Pol3|Polarized Capacitor (Surface Mount)|C1n, C100n|C0805|Cap Pol3|2
+3|Header 6|Header, 6-Pin|CZ_0|HDR1X6|Header 6|1
+4|Header 8|Header, 8-Pin|CZ_1, CZ_3|HDR1X8|Header 8|2
+5|Header 2|Header, 2-Pin|CZ_2|HDR1X2|Header 2|1
+6|Header 10|Header, 10-Pin|CZ_4|HDR1X10|Header 10|1
+7|I2C_MSP430|Header, 4-Pin|I2C|HDR1X4|Header 4|1
+8|I2C_ODROID|Header, 4-Pin|I2C_O2|HDR1X4|Header 4|1
+9|Plug|Plug|minus -, OUT+, OUT-, Plus+|PIN1|Plug|4
+10|Header 10X2A|Header, 10-Pin, Dual row|MSP_PIC|HDR2X10_CEN|Header 10X2A|1
+11|Header 20X2|Header, 20-Pin, Dual row|OdroidC2|HDR2X20|Header 20X2|1
+12|TLC3702MJG|Dual Micropower LinCMOS Voltage Comparator|OPA2|JG008|TLC3702MJG|1
+13|Header 6|Header, 6-Pin|OutUSB|USB2.5-2H4C|Header 6|1
+14|Res3|Resistor|R1, R2, R47k|INDC3216|Res3|3
+15|Header 3|Header, 3-Pin|Servo|HDR1X3|Header 3|1
+16|UART_MSP430|Header, 4-Pin|UART|HDR1X4|Header 4|1
+17|UART_ODROID|Header, 4-Pin|UART_O2|HDR1X4|Header 4|1
