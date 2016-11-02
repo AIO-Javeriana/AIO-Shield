@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetCZ_0_4 Pin=OdroidC2-22
+Removed Pin From Net: NetName=NetCZ_0_3 Pin=OdroidC2-24
+Removed Pin From Net: NetName=NetCZ_0_6 Pin=OdroidC2-26
+Added Pin To Net: NetName=NetCZ_0_6 Pin=OdroidC2-22
+Added Pin To Net: NetName=NetCZ_0_4 Pin=OdroidC2-24
+Added Pin To Net: NetName=NetCZ_0_3 Pin=OdroidC2-26
