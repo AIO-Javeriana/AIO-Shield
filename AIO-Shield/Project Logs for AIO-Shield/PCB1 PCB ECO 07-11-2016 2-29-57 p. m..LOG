@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetI2C_3 Pin=MSP_PIC-17
+Added Pin To Net: NetName=NetI2C_3 Pin=MSP_PIC-14
