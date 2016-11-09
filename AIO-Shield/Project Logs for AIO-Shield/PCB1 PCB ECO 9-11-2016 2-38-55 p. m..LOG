@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC100n_1 Pin=Jump-1
+Change Component Designator: OldDesignator=Jump NewDesignator=Jump1
+Change Component Designator: OldDesignator=Jump NewDesignator=Jump2
+Change Component Designator: OldDesignator=LED NewDesignator=RLED
+Added Pin To Net: NetName=NetJump_1 Pin=Jump-1
+Added Pin To Net: NetName=NetJump_1 Pin=MSP_PIC-2
+Added Pin To Net: NetName=NetJump_1 Pin=P1-2
+Added Net: Name=NetJump_1
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C1n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C100n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component I2C I2C_MSP430
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Jump1 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Jump2 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component MSP_PIC Header 10X2A
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47k Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Servo Header 3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component UART UART_MSP430

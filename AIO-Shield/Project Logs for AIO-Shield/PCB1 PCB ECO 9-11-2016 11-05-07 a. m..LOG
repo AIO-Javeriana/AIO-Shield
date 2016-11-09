@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetMSP_PIC_6 Pin=Servo-1
+Removed Pin From Net: NetName=NetMSP_PIC_2 Pin=UART-2
+Removed Pin From Net: NetName=NetC1n_2 Pin=UART-4
+Added Component: Designator=D?(6-0805_L)
+Added Component: Designator=Jump1(HDR1X2)
+Added Component: Designator=Jump2(HDR1X2)
+Added Component: Designator=Jump(HDR1X2)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=P2(HDR1X10)
+Added Component: Designator=R47K1(INDC3216)
+Added Component: Designator=R47K2(INDC3216)
+Added Component: Designator=RLED(INDC3216)
+Added Pin To Net: NetName=NetC100n_1 Pin=Jump1-2
+Added Pin To Net: NetName=NetC100n_1 Pin=Jump2-2
+Added Pin To Net: NetName=NetC100n_1 Pin=Jump-1
+Added Pin To Net: NetName=NetC100n_1 Pin=P1-1
+Added Pin To Net: NetName=NetMSP_PIC_2 Pin=P1-2
+Added Pin To Net: NetName=NetMSP_PIC_3 Pin=P1-3
+Added Pin To Net: NetName=NetMSP_PIC_6 Pin=P1-6
+Added Pin To Net: NetName=NetC1n_2 Pin=P2-1
+Added Pin To Net: NetName=NetC1n_1 Pin=P2-5
+Added Pin To Net: NetName=NetI2C_2 Pin=P2-6
+Added Pin To Net: NetName=NetI2C_3 Pin=P2-7
+Added Pin To Net: NetName=NetI2C_3 Pin=R47K1-2
+Added Pin To Net: NetName=NetI2C_2 Pin=R47K2-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=RLED-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=UART-4
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetJump1_1 Pin=Jump1-1
+Added Pin To Net: NetName=NetJump1_1 Pin=R47K1-1
+Added Net: Name=NetJump1_1
+Added Pin To Net: NetName=NetJump2_1 Pin=Jump2-1
+Added Pin To Net: NetName=NetJump2_1 Pin=R47K2-1
+Added Net: Name=NetJump2_1
+Added Pin To Net: NetName=NetJump_2 Pin=Jump-2
+Added Pin To Net: NetName=NetJump_2 Pin=RLED-2
+Added Net: Name=NetJump_2
+Added Pin To Net: NetName=NetMSP_PIC_4 Pin=MSP_PIC-4
+Added Pin To Net: NetName=NetMSP_PIC_4 Pin=P1-4
+Added Pin To Net: NetName=NetMSP_PIC_4 Pin=UART-2
+Added Net: Name=NetMSP_PIC_4
+Added Pin To Net: NetName=NetMSP_PIC_5 Pin=MSP_PIC-5
+Added Pin To Net: NetName=NetMSP_PIC_5 Pin=P1-5
+Added Net: Name=NetMSP_PIC_5
+Added Pin To Net: NetName=NetMSP_PIC_7 Pin=MSP_PIC-7
+Added Pin To Net: NetName=NetMSP_PIC_7 Pin=P1-7
+Added Net: Name=NetMSP_PIC_7
+Added Pin To Net: NetName=NetMSP_PIC_8 Pin=MSP_PIC-8
+Added Pin To Net: NetName=NetMSP_PIC_8 Pin=P1-8
+Added Net: Name=NetMSP_PIC_8
+Added Pin To Net: NetName=NetMSP_PIC_9 Pin=MSP_PIC-9
+Added Pin To Net: NetName=NetMSP_PIC_9 Pin=P1-9
+Added Net: Name=NetMSP_PIC_9
+Added Pin To Net: NetName=NetMSP_PIC_10 Pin=MSP_PIC-10
+Added Pin To Net: NetName=NetMSP_PIC_10 Pin=P1-10
+Added Pin To Net: NetName=NetMSP_PIC_10 Pin=Servo-1
+Added Net: Name=NetMSP_PIC_10
+Added Pin To Net: NetName=NetMSP_PIC_11 Pin=MSP_PIC-11
+Added Pin To Net: NetName=NetMSP_PIC_11 Pin=P2-10
+Added Net: Name=NetMSP_PIC_11
+Added Pin To Net: NetName=NetMSP_PIC_12 Pin=MSP_PIC-12
+Added Pin To Net: NetName=NetMSP_PIC_12 Pin=P2-9
+Added Net: Name=NetMSP_PIC_12
+Added Pin To Net: NetName=NetMSP_PIC_13 Pin=MSP_PIC-13
+Added Pin To Net: NetName=NetMSP_PIC_13 Pin=P2-8
+Added Net: Name=NetMSP_PIC_13
+Added Pin To Net: NetName=NetMSP_PIC_17 Pin=MSP_PIC-17
+Added Pin To Net: NetName=NetMSP_PIC_17 Pin=P2-4
+Added Net: Name=NetMSP_PIC_17
+Added Pin To Net: NetName=NetMSP_PIC_18 Pin=MSP_PIC-18
+Added Pin To Net: NetName=NetMSP_PIC_18 Pin=P2-3
+Added Net: Name=NetMSP_PIC_18
+Added Pin To Net: NetName=NetMSP_PIC_19 Pin=MSP_PIC-19
+Added Pin To Net: NetName=NetMSP_PIC_19 Pin=P2-2
+Added Net: Name=NetMSP_PIC_19
+Added Member To Class: ClassName=Sheet_handling_module Member=Component D? LED3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Jump1 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Jump2 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Jump Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P1 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P2 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K1 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K2 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component RLED Res3

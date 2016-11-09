@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1n_1 Pin=MSP_PIC-15
+Removed Pin From Net: NetName=NetI2C_2 Pin=MSP_PIC-16
+Removed Pin From Net: NetName=NetC1n_1 Pin=P2-5
+Removed Pin From Net: NetName=NetI2C_2 Pin=P2-6
+Added Pin To Net: NetName=NetMSP_PIC_15 Pin=MSP_PIC-15
+Added Pin To Net: NetName=NetMSP_PIC_15 Pin=P2-5
+Added Net: Name=NetMSP_PIC_15
+Added Pin To Net: NetName=NetMSP_PIC_16 Pin=MSP_PIC-16
+Added Pin To Net: NetName=NetMSP_PIC_16 Pin=P2-6
+Added Net: Name=NetMSP_PIC_16

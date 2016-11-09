@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetI2C_2 Pin=MSP_PIC-15
+Added Pin To Net: NetName=NetC1n_1 Pin=MSP_PIC-16
+Added Pin To Net: NetName=NetI2C_2 Pin=P2-5
+Added Pin To Net: NetName=NetC1n_1 Pin=P2-6

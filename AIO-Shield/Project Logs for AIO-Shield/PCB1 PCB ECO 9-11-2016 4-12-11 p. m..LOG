@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC100n_1 Pin=UART-1
+Removed Pin From Net: NetName=NetD?_2 Pin=UART-4
+Added Pin To Net: NetName=NetD?_2 Pin=UART-1
+Added Pin To Net: NetName=NetC100n_1 Pin=UART-4

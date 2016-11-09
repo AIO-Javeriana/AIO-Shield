@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC100n_1 Pin=I2C-1
+Removed Pin From Net: NetName=NetC1n_2 Pin=I2C-4
+Added Pin To Net: NetName=NetC1n_2 Pin=I2C-1
+Added Pin To Net: NetName=NetC100n_1 Pin=I2C-4
