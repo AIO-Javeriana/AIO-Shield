@@ -1,0 +1,153 @@
+Added Component: Designator=C_IN(HDR1X2)
+Added Component: Designator=C_OUT(HDR1X2)
+Added Component: Designator=DRV1(HDR1X8)
+Added Component: Designator=DRV2(HDR1X8)
+Added Component: Designator=I2C_O2(HDR1X4)
+Added Component: Designator=M1(HDR1X6)
+Added Component: Designator=M2(HDR1X6)
+Added Component: Designator=minus -(PIN1)
+Added Component: Designator=MUX1(N016)
+Added Component: Designator=MUX2(N016)
+Added Component: Designator=OdroidC2(HDR2X20)
+Added Component: Designator=OUT+(PIN1)
+Added Component: Designator=OUT-(PIN1)
+Added Component: Designator=Plus+(PIN1)
+Added Component: Designator=R1(INDC3216)
+Added Component: Designator=R2(INDC3216)
+Added Component: Designator=Sensor_Array(HDR2X12_CEN)
+Added Component: Designator=UART_O2(HDR1X4)
+Added Pin To Net: NetName=GND Pin=C_OUT-2
+Added Pin To Net: NetName=GND Pin=DRV1-1
+Added Pin To Net: NetName=GND Pin=DRV2-1
+Added Pin To Net: NetName=3.3V Pin=I2C_O2-1
+Added Pin To Net: NetName=NetI2C_O2_2 Pin=I2C_O2-2
+Added Pin To Net: NetName=NetI2C_O2_3 Pin=I2C_O2-3
+Added Pin To Net: NetName=GND Pin=I2C_O2-4
+Added Pin To Net: NetName=5V Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-4
+Added Pin To Net: NetName=5V Pin=M2-3
+Added Pin To Net: NetName=GND Pin=M2-4
+Added Pin To Net: NetName=GND Pin=MUX1-8
+Added Pin To Net: NetName=5V Pin=MUX1-9
+Added Pin To Net: NetName=GND Pin=MUX2-8
+Added Pin To Net: NetName=5V Pin=MUX2-9
+Added Pin To Net: NetName=3.3V Pin=OdroidC2-1
+Added Pin To Net: NetName=5V Pin=OdroidC2-2
+Added Pin To Net: NetName=NetI2C_O2_2 Pin=OdroidC2-3
+Added Pin To Net: NetName=NetI2C_O2_3 Pin=OdroidC2-5
+Added Pin To Net: NetName=NetOdroidC2_8 Pin=OdroidC2-8
+Added Pin To Net: NetName=GND Pin=OdroidC2-9
+Added Pin To Net: NetName=NetOdroidC2_10 Pin=OdroidC2-10
+Added Pin To Net: NetName=GND Pin=OUT--1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=Sensor_Array-7
+Added Pin To Net: NetName=5V Pin=Sensor_Array-18
+Added Pin To Net: NetName=GND Pin=Sensor_Array-19
+Added Pin To Net: NetName=3.3V Pin=UART_O2-1
+Added Pin To Net: NetName=NetOdroidC2_8 Pin=UART_O2-2
+Added Pin To Net: NetName=NetOdroidC2_10 Pin=UART_O2-3
+Added Pin To Net: NetName=GND Pin=UART_O2-4
+Added Pin To Net: NetName=NetC_IN_1 Pin=C_IN-1
+Added Pin To Net: NetName=NetC_IN_1 Pin=Plus+-1
+Added Net: Name=NetC_IN_1
+Added Pin To Net: NetName=NetC_IN_2 Pin=C_IN-2
+Added Pin To Net: NetName=NetC_IN_2 Pin=minus --1
+Added Net: Name=NetC_IN_2
+Added Pin To Net: NetName=NetC_OUT_1 Pin=C_OUT-1
+Added Pin To Net: NetName=NetC_OUT_1 Pin=DRV2-2
+Added Pin To Net: NetName=NetC_OUT_1 Pin=OUT+-1
+Added Pin To Net: NetName=NetC_OUT_1 Pin=Sensor_Array-12
+Added Net: Name=NetC_OUT_1
+Added Pin To Net: NetName=NetDRV1_3 Pin=DRV1-3
+Added Pin To Net: NetName=NetDRV1_3 Pin=MUX1-7
+Added Net: Name=NetDRV1_3
+Added Pin To Net: NetName=NetDRV1_4 Pin=DRV1-4
+Added Pin To Net: NetName=NetDRV1_4 Pin=MUX1-4
+Added Net: Name=NetDRV1_4
+Added Pin To Net: NetName=NetDRV1_5 Pin=DRV1-5
+Added Pin To Net: NetName=NetDRV1_5 Pin=MUX2-7
+Added Net: Name=NetDRV1_5
+Added Pin To Net: NetName=NetDRV1_6 Pin=DRV1-6
+Added Pin To Net: NetName=NetDRV1_6 Pin=MUX2-4
+Added Net: Name=NetDRV1_6
+Added Pin To Net: NetName=NetDRV2_3 Pin=DRV2-3
+Added Pin To Net: NetName=NetDRV2_3 Pin=M1-1
+Added Net: Name=NetDRV2_3
+Added Pin To Net: NetName=NetDRV2_4 Pin=DRV2-4
+Added Pin To Net: NetName=NetDRV2_4 Pin=M1-2
+Added Net: Name=NetDRV2_4
+Added Pin To Net: NetName=NetDRV2_5 Pin=DRV2-5
+Added Pin To Net: NetName=NetDRV2_5 Pin=M2-1
+Added Net: Name=NetDRV2_5
+Added Pin To Net: NetName=NetDRV2_6 Pin=DRV2-6
+Added Pin To Net: NetName=NetDRV2_6 Pin=M2-2
+Added Net: Name=NetDRV2_6
+Added Pin To Net: NetName=NetM1_5 Pin=M1-5
+Added Pin To Net: NetName=NetM1_5 Pin=OdroidC2-18
+Added Pin To Net: NetName=NetM1_5 Pin=R2-1
+Added Net: Name=NetM1_5
+Added Pin To Net: NetName=NetM2_5 Pin=M2-5
+Added Pin To Net: NetName=NetM2_5 Pin=OdroidC2-16
+Added Pin To Net: NetName=NetM2_5 Pin=R1-1
+Added Net: Name=NetM2_5
+Added Pin To Net: NetName=NetMUX1_1 Pin=MUX1-1
+Added Pin To Net: NetName=NetMUX1_1 Pin=OdroidC2-15
+Added Net: Name=NetMUX1_1
+Added Pin To Net: NetName=NetMUX1_2 Pin=MUX1-2
+Added Pin To Net: NetName=NetMUX1_2 Pin=MUX1-6
+Added Net: Name=NetMUX1_2
+Added Pin To Net: NetName=NetMUX1_3 Pin=MUX1-3
+Added Pin To Net: NetName=NetMUX1_3 Pin=MUX1-5
+Added Pin To Net: NetName=NetMUX1_3 Pin=OdroidC2-19
+Added Net: Name=NetMUX1_3
+Added Pin To Net: NetName=NetMUX1_10 Pin=MUX1-10
+Added Pin To Net: NetName=NetMUX1_10 Pin=MUX2-10
+Added Net: Name=NetMUX1_10
+Added Pin To Net: NetName=NetMUX2_1 Pin=MUX2-1
+Added Pin To Net: NetName=NetMUX2_1 Pin=OdroidC2-29
+Added Net: Name=NetMUX2_1
+Added Pin To Net: NetName=NetMUX2_2 Pin=MUX2-2
+Added Pin To Net: NetName=NetMUX2_2 Pin=MUX2-6
+Added Net: Name=NetMUX2_2
+Added Pin To Net: NetName=NetMUX2_3 Pin=MUX2-3
+Added Pin To Net: NetName=NetMUX2_3 Pin=MUX2-5
+Added Pin To Net: NetName=NetMUX2_3 Pin=OdroidC2-33
+Added Net: Name=NetMUX2_3
+Added Pin To Net: NetName=NetOdroidC2_11 Pin=OdroidC2-11
+Added Pin To Net: NetName=NetOdroidC2_11 Pin=Sensor_Array-5
+Added Net: Name=NetOdroidC2_11
+Added Pin To Net: NetName=NetOdroidC2_12 Pin=OdroidC2-12
+Added Pin To Net: NetName=NetOdroidC2_12 Pin=Sensor_Array-8
+Added Net: Name=NetOdroidC2_12
+Added Pin To Net: NetName=NetOdroidC2_13 Pin=OdroidC2-13
+Added Pin To Net: NetName=NetOdroidC2_13 Pin=Sensor_Array-14
+Added Net: Name=NetOdroidC2_13
+Added Pin To Net: NetName=NetOdroidC2_21 Pin=OdroidC2-21
+Added Pin To Net: NetName=NetOdroidC2_21 Pin=Sensor_Array-11
+Added Net: Name=NetOdroidC2_21
+Added Pin To Net: NetName=NetOdroidC2_22 Pin=OdroidC2-22
+Added Pin To Net: NetName=NetOdroidC2_22 Pin=Sensor_Array-23
+Added Net: Name=NetOdroidC2_22
+Added Pin To Net: NetName=NetOdroidC2_24 Pin=OdroidC2-24
+Added Pin To Net: NetName=NetOdroidC2_24 Pin=Sensor_Array-16
+Added Net: Name=NetOdroidC2_24
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component C_IN Header 2
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component C_OUT Header 2
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component DRV1 Header 8
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component DRV2 Header 8
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component I2C_O2 I2C_ODROID
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component M1 Header 6
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component M2 Header 6
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component minus - Plug
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component MUX1 Header 8X2A
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component MUX2 Header 8X2A
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component OdroidC2 Header 20X2
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component OUT+ Plug
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component OUT- Plug
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component Plus+ Plug
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component R2 Res3
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component Sensor_Array Header 12X2A
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component UART_O2 UART_ODROID
+Added Room: Name=Sheet_AIO_Shield

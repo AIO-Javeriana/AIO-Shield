@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC_OUT_1 Pin=C_OUT-1
+Removed Pin From Net: NetName=GND Pin=C_OUT-2
+Removed Member From Class: ClassName=Sheet_AIO_Shield Member=C_IN
+Removed Member From Class: ClassName=Sheet_AIO_Shield Member=C_OUT
+Change Component Designator: OldDesignator=minus - NewDesignator=IN-
+Change Component Designator: OldDesignator=Plus+ NewDesignator=IN+
+Added Component: Designator=BAT+(PIN1)
+Added Component: Designator=BAT-(PIN1)
+Change Net Name : Old Net Name=NetC_OUT_1 New Net Name=NetDRV2_2
+Added Pin To Net: NetName=NetBAT+_1 Pin=BAT+-1
+Added Pin To Net: NetName=NetBAT+_1 Pin=IN+-1
+Added Net: Name=NetBAT+_1
+Added Pin To Net: NetName=NetBAT-_1 Pin=BAT--1
+Added Pin To Net: NetName=NetBAT-_1 Pin=IN--1
+Added Net: Name=NetBAT-_1
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component BAT+ Plug
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component BAT- Plug
