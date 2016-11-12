@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetOdroidC2_22 Pin=Sensor_Array-5
+Removed Pin From Net: NetName=NetOdroidC2_21 Pin=Sensor_Array-8
+Removed Pin From Net: NetName=NetOdroidC2_13 Pin=Sensor_Array-14
+Added Pin To Net: NetName=NetOdroidC2_21 Pin=Sensor_Array-5
+Added Pin To Net: NetName=NetOdroidC2_13 Pin=Sensor_Array-8
+Added Pin To Net: NetName=NetOdroidC2_22 Pin=Sensor_Array-14

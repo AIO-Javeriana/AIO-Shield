@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=5V Pin=I2C_O2-1
+Removed Pin From Net: NetName=5V Pin=M1-3
+Removed Pin From Net: NetName=5V Pin=M2-3
+Removed Pin From Net: NetName=5V Pin=MUX1-9
+Removed Pin From Net: NetName=5V Pin=MUX2-9
+Removed Pin From Net: NetName=5V Pin=OdroidC2-2
+Removed Pin From Net: NetName=5V Pin=OdroidC2-31
+Removed Pin From Net: NetName=5V Pin=R1-2
+Removed Pin From Net: NetName=5V Pin=R2-2
+Removed Pin From Net: NetName=5V Pin=Sensor_Array-19
+Removed Pin From Net: NetName=5V Pin=UART_O2-1
+Change Net Name : Old Net Name=5V New Net Name=GND
+Added Pin To Net: NetName=5V Pin=I2C_O2-1
+Added Pin To Net: NetName=5V Pin=M1-3
+Added Pin To Net: NetName=5V Pin=M2-3
+Added Pin To Net: NetName=5V Pin=MUX1-9
+Added Pin To Net: NetName=5V Pin=MUX2-9
+Added Pin To Net: NetName=5V Pin=OdroidC2-2
+Added Pin To Net: NetName=5V Pin=OdroidC2-31
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=5V Pin=Sensor_Array-19
+Added Pin To Net: NetName=5V Pin=UART_O2-1
+Added Net: Name=5V

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=OUT--1
+Added Pin To Net: NetName=GND Pin=DRV1-1
+Added Pin To Net: NetName=GND Pin=DRV2-1
+Added Pin To Net: NetName=GND Pin=M1-4
+Added Pin To Net: NetName=GND Pin=M2-4
+Added Pin To Net: NetName=NetOdroidC2_39 Pin=OdroidC2-39
+Added Pin To Net: NetName=NetOdroidC2_39 Pin=OUT--1
+Added Net: Name=NetOdroidC2_39

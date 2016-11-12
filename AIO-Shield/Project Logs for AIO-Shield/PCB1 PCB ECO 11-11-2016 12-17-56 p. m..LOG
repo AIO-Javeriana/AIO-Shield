@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetM2_5 Pin=OdroidC2-16
+Removed Pin From Net: NetName=NetM1_5 Pin=OdroidC2-18
+Removed Pin From Net: NetName=NetOdroidC2_11 Pin=Sensor_Array-5
+Removed Pin From Net: NetName=NetOdroidC2_21 Pin=Sensor_Array-11
+Removed Pin From Net: NetName=NetOdroidC2_22 Pin=Sensor_Array-23
+Added Pin To Net: NetName=NetM1_5 Pin=OdroidC2-23
+Added Pin To Net: NetName=NetM2_5 Pin=OdroidC2-35
+Added Pin To Net: NetName=NetOdroidC2_22 Pin=Sensor_Array-5
+Added Pin To Net: NetName=NetOdroidC2_21 Pin=Sensor_Array-8
+Added Pin To Net: NetName=NetOdroidC2_11 Pin=Sensor_Array-11
+Added Pin To Net: NetName=NetOdroidC2_7 Pin=OdroidC2-7
+Added Pin To Net: NetName=NetOdroidC2_7 Pin=Sensor_Array-23
+Added Net: Name=NetOdroidC2_7

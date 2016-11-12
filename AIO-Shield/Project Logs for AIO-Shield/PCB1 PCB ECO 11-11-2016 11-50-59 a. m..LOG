@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetOdroidC2_8 Pin=UART_O2-2
+Removed Pin From Net: NetName=NetOdroidC2_10 Pin=UART_O2-3
+Added Pin To Net: NetName=NetOdroidC2_10 Pin=UART_O2-2
+Added Pin To Net: NetName=NetOdroidC2_8 Pin=UART_O2-3

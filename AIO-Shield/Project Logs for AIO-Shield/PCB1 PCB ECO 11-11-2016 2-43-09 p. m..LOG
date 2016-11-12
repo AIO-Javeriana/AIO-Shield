@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=5V Pin=OdroidC2-31
+Added Pin To Net: NetName=NetMUX1_10 Pin=OdroidC2-31

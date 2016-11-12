@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=MUX2-9
+Removed Pin From Net: NetName=NetMUX1_15 Pin=MUX2-10
+Added Pin To Net: NetName=NetMUX1_15 Pin=MUX2-15
+Added Pin To Net: NetName=5V Pin=MUX2-16

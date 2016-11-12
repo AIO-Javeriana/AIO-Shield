@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=5V Pin=I2C_O2-1
+Added Pin To Net: NetName=5V Pin=UART_O2-1
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component R1 Res3

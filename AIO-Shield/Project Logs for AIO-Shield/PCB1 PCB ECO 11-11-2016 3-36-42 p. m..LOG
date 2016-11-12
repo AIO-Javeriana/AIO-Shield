@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=DRV1-1
+Removed Pin From Net: NetName=GND Pin=DRV2-1
+Removed Pin From Net: NetName=GND Pin=M1-4
+Removed Pin From Net: NetName=GND Pin=M2-4
+Added Pin To Net: NetName=NetDRV1_1 Pin=DRV1-1
+Added Pin To Net: NetName=NetDRV1_1 Pin=DRV2-1
+Added Pin To Net: NetName=NetDRV1_1 Pin=M1-4
+Added Pin To Net: NetName=NetDRV1_1 Pin=M2-4
+Added Pin To Net: NetName=NetDRV1_1 Pin=OdroidC2-39
+Added Net: Name=NetDRV1_1
