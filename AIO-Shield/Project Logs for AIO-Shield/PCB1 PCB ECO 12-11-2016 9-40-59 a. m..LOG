@@ -1,0 +1,50 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Component: Designator=C1n(C0805)
+Added Component: Designator=C100n(C0805)
+Added Component: Designator=D1(6-0805_L)
+Added Component: Designator=I2C(HDR1X4)
+Added Component: Designator=J1(HDR1X2)
+Added Component: Designator=J2(HDR1X2)
+Added Component: Designator=J3(HDR1X2)
+Added Component: Designator=MSP_PIC(N020)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=P2(HDR1X10)
+Added Component: Designator=R47K1(INDC3216)
+Added Component: Designator=R47K2(INDC3216)
+Added Component: Designator=R47k(INDC3216)
+Added Component: Designator=RLED(INDC3216)
+Added Component: Designator=Servo(HDR1X3)
+Added Component: Designator=UART(HDR1X4)
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C1n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C1n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C100n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C100n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component D1 LED3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component D1 LED3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component I2C I2C_MSP430
+Added Member To Class: ClassName=Sheet_handling_module Member=Component I2C I2C_MSP430
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J1 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J1 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J2 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J2 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J3 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J3 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component MSP_PIC Header 10X2A
+Added Member To Class: ClassName=Sheet_handling_module Member=Component MSP_PIC Header 10X2A
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P1 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P1 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P2 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P2 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K1 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K1 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K2 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K2 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47k Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47k Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component RLED Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component RLED Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Servo Header 3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Servo Header 3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component UART UART_MSP430
+Added Member To Class: ClassName=Sheet_handling_module Member=Component UART UART_MSP430

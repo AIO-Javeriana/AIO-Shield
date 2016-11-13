@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C1n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component C100n Cap Pol3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component D1 LED3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component I2C I2C_MSP430
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J1 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J2 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component J3 Header 2
+Added Member To Class: ClassName=Sheet_handling_module Member=Component MSP_PIC Header 10X2A
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P1 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component P2 Header 10
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K1 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47K2 Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component R47k Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component RLED Res3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component Servo Header 3
+Added Member To Class: ClassName=Sheet_handling_module Member=Component UART UART_MSP430
