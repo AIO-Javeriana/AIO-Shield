@@ -1,0 +1,10 @@
+Added Component: Designator=RADC1(INDC3216)
+Added Component: Designator=RADC1(INDC3216)
+Added Pin To Net: NetName=NetBAT-_1 Pin=RADC1-1
+Added Pin To Net: NetName=NetBAT+_1 Pin=RADC1-2
+Added Pin To Net: NetName=NetOdroidC2_37 Pin=OdroidC2-37
+Added Pin To Net: NetName=NetOdroidC2_37 Pin=RADC1-1
+Added Pin To Net: NetName=NetOdroidC2_37 Pin=RADC1-2
+Added Net: Name=NetOdroidC2_37
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component RADC1 Res3
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component RADC1 Res3

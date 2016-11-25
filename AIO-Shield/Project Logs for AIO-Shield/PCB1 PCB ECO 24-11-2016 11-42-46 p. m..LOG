@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetBAT-_1 Pin=RADC1-1
+Change Component Designator: OldDesignator=RADC1 NewDesignator=RADC2
+Added Pin To Net: NetName=NetOdroidC2_39 Pin=RADC2-1
+Added Member To Class: ClassName=Sheet_AIO_Shield Member=Component RADC2 Res3
